@@ -1,3 +1,7 @@
+'''
+此为Leetcode197场周赛题，详细解析可见
+https://zhuanlan.zhihu.com/p/163316436
+'''
 from typing import List
 import heapq
 class Solution:

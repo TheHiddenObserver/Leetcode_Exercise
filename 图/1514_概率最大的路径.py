@@ -27,8 +27,11 @@ class Solution:
                     pro[e] = max(-p * prob, pro[e])
             #print(queue)
         return pro[end]
+        
         '''
         以下为未使用优先队列的代码，未超时
+        '''
+        
         '''
         queue = [start]
         s = set()
